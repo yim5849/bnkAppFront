@@ -1,7 +1,6 @@
-# 😎 교원투어 > 제휴서비스 API
-> 교원투어에는 "여행이지" 라는 여행상품을 판매하는 자체 B2C사이트가 존재하지만 매출향상의 목적으로 다른 채널(제휴사)과의 계약을 통해 교원투어의 여행상품을 노출하고 판매하기 위한
-제휴사 - 교원투어간의 행사 노출, 행사정보 갱신 및 예약 연동 API 프로젝트입니다.
-#### ☑️ 제휴사 : 11번가,G마켓,위메프,네이버패키지 등 
+# 😎 신한아이타스 > BnkApp 연금저축 Project
+> BnkApp은 BNK자산운용이 은행이나 증권사 등 판매사를 거치지 않고 펀드를 직접 판매하는 모바일 펀드 직판 서비스를 제공하기 위한 App으로써 화면 리뉴얼 및 연금저축 상품 연동 Project 수행
+
 
 ## 💻TOOL
 > SPRING,ORACLE
@@ -34,15 +33,12 @@
 
 
 ## 👯Copyright
-* API 예시 사진 - 출처 : 트립스토어 [[이동하기](https://www.tripstore.kr/)]
+* API 예시 사진 - 출처 : 븐크앱 [[이동하기](https://play.google.com/store/apps/details?id=com.shaitas.mfuns.bnk)]
 
 ## 😄TAKEAWAYS
 
-1. (DB)-JOIN과 SUBQUERY 및 함수를 사용하는 방법 및 INDEX의 중요성
-2. XML / JSON 자료구조에 대한 이해
-3. DATA-PARSING에 대한 이해 
-4. REST-API호출을 위한 SPRING RestTemplate 사용법
-5. Spring Batch의 개념 및 구조에 대한 이해
-6. HTTP(S)통신 및 통신을 위한 방화벽 관련 지식
-7. 로직의 모듈화 및 EXCEPTION 공통화의 중요성
+1. JavaScript / J-Query 사용법에 대한 이해
+2. GOOGLE CHART 사용법에 대한 이해
+3. JSTL 사용법에 대한 이해 
+4. REST-API의 개념과 연동방법에 대한 이해
 
