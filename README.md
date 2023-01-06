@@ -11,8 +11,8 @@
 > * 해당 제휴처에 판매 가능한 행사 데이터를 전송하기 위한 목적
 
 <div>
-   <img src="https://user-images.githubusercontent.com/87461392/211046385-714a3631-9973-4f4a-b4d6-9c0b2f245835.PNG"  width="400" height="700"/>
-   <img src="https://user-images.githubusercontent.com/87461392/211057723-03e31318-1b55-467b-b31d-0b7ebd8f3a4a.PNG"  width="400" height="700"/>
+   <img src=""  width="400" height="700"/>
+   <img src=""  width="400" height="700"/>
 </div>
 <br/>
 
@@ -21,15 +21,20 @@
 > * 비용, 잔여좌석 등 실시간으로 변동되는 데이터를 갱신하기 위한 목적
 
 <div>
-   <img src="https://user-images.githubusercontent.com/87461392/211048678-ae99383c-c99e-49fb-80fa-209c87b27679.PNG"  width="400" height="700"/>
-   <img src="https://user-images.githubusercontent.com/87461392/211048826-e41660ad-b9d2-45c9-942c-8bba41629ae4.PNG"  width="400" height="700"/>
+    <img src=""  width="400" height="700"/>
+    <img src=""  width="400" height="700"/>
 </div>
 <br/>
 
 🌱 예약연동 API
 > * 각 제휴처에서 전송하는 교원투어 상품의 예약 정보를 수신하는 API
 > * 외부채널(제휴사)에서의 예약 데이터를 내부에서 예약처리 및 관리하기 위한 목적
-<img src="https://user-images.githubusercontent.com/87461392/211065288-fb6d0159-46bf-4fb3-aa16-b03e424e13b2.PNG"  width="800" height="400"/>
+> 
+<div>
+    <img src=""  width="400" height="700"/>
+    <img src=""  width="400" height="700"/>
+</div>
+<br/>
 
 
 ## 👯Copyright
