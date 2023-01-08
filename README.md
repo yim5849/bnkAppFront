@@ -1,44 +1,23 @@
 # 😎 신한아이타스 > BnkApp 연금저축 Project
-> BnkApp은 BNK자산운용이 은행이나 증권사 등 판매사를 거치지 않고 펀드를 직접 판매하는 모바일 펀드 직판 서비스를 제공하기 위한 App으로써 화면 리뉴얼 및 연금저축 상품 연동 Project 수행
+> BnkApp은 BNK자산운용이 은행이나 증권사 등 판매사를 거치지 않고 펀드를 직접 판매하는 모바일 펀드 직판 서비스를 제공하기 위한 App으로써 화면 리뉴얼에 따른 소스 개선 및 연금저축 상품 연동 Project 수행
 
 
 ## 💻TOOL
 > SPRING,ORACLE
 
 ## ✨INFO
-🌱 상품(행사) LIST API
-> * 제휴사에 노출할 행사 리스트 정보를 전송하는 API
-> * 해당 제휴처에 판매 가능한 행사 데이터를 전송하기 위한 목적
+🌱 화면 리뉴얼에 따른 소스 개선
+> * 펀드목록,알림(공지,이벤트,FAQ),검색,마이페이지(투자현황 목록, 투자상세, 입출금내역 등) 소스 개선
+> * 연금상품 추가로 인한 기존 소스 개선
 
 <div>
-   <img src=""  width="400" height="700"/>
-   <img src=""  width="400" height="700"/>
+   <img src="https://user-images.githubusercontent.com/87461392/211194979-232c11f1-c987-4779-a78d-8ef520db3563.PNG"  width="400" height="700"/>
+   <img src="https://user-images.githubusercontent.com/87461392/211194984-f92fbcb1-34b3-4877-b671-a1447198b5ff.PNG"  width="400" height="700"/>
 </div>
 <br/>
-
-🌱 행사정보갱신 API
-> * 각 제휴처에서 고객이 상품을 클릭하여 상세페이지에 진입하였을때 실시간 호출을 통해 해당 행사의 상세 데이터를 응답하는 API <br/>
-> * 비용, 잔여좌석 등 실시간으로 변동되는 데이터를 갱신하기 위한 목적
-
-<div>
-    <img src=""  width="400" height="700"/>
-    <img src=""  width="400" height="700"/>
-</div>
-<br/>
-
-🌱 예약연동 API
-> * 각 제휴처에서 전송하는 교원투어 상품의 예약 정보를 수신하는 API
-> * 외부채널(제휴사)에서의 예약 데이터를 내부에서 예약처리 및 관리하기 위한 목적
-> 
-<div>
-    <img src=""  width="400" height="700"/>
-    <img src=""  width="400" height="700"/>
-</div>
-<br/>
-
 
 ## 👯Copyright
-* API 예시 사진 - 출처 : 븐크앱 [[이동하기](https://play.google.com/store/apps/details?id=com.shaitas.mfuns.bnk)]
+* 사진 - 출처 : 븐크앱(BnkApp) [[이동하기](https://play.google.com/store/apps/details?id=com.shaitas.mfuns.bnk)]
 
 ## 😄TAKEAWAYS
 
@@ -47,3 +26,5 @@
 3. JSTL 사용법에 대한 이해 
 4. REST-API의 개념과 연동방법에 대한 이해
 
+## 🔲REVIEW
+실무 첫 프로젝트여서 긴장도 많이 되고 일반적인 프로젝트와는 다르게 중간에 투입되어 기존 수행팀이 진행했던 소스를 보완하며 진행하다보니 정신이 없었던 것 같습니다.그래도 이 프로젝트를 통해 스스로 부족한 부분을 많이 느꼈고 개발에 대한 지식뿐만 아니라 전체적으로 프로젝트가 진행되는 흐름(실무의 흐름)에 대해 많이 배울 수 있었던 프로젝트였습니다.
